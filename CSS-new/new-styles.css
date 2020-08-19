@@ -21,9 +21,8 @@
   }
 
   .second-cloud{
-    position: absolute;
-    left: 350px;
-    bottom: 1560px;
+    display: block;
+    margin-left: 20%; 
   }
   .top{
     background-color: #eeeeee;
