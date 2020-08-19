@@ -1,0 +1,74 @@
+   body{
+     text-align: center;
+     margin: 0;
+    font-family: 'Merriweather Sans', sans-serif;
+   }
+
+   h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 85px;
+    margin-bottom: 0;
+   }
+   h2{
+     margin-top: 0;
+     font-family: 'Montserrat', sans-serif;
+   }
+
+  .first-cloud{
+    margin-left: 45%;
+    margin-top: 40px;
+    padding-bottom: 5px;
+  }
+
+  .second-cloud{
+    position: absolute;
+    left: 350px;
+    bottom: 1560px;
+  }
+  .top{
+    background-color: #eeeeee;
+    position: relative;
+  }
+ .title{
+    color: #66BFBF;
+ }
+
+  .min{
+    text-decoration: underline;
+  }
+
+  .two{
+    padding-bottom: 70px;
+  }
+
+   .mountain{
+       margin-bottom: 10px;
+   }
+
+ .middle{
+      background-color: #f4f6ff;
+ }
+ .bottom{
+       background-color: #def4f0;
+       margin: 0;
+ }
+.comp{
+  border-radius: 20%;
+  height: 200px;
+  width: 200px;
+}
+
+.myimg{
+  margin-top: 10px;
+}
+.game{
+  border-radius: 20%;
+  height: 200px;
+  width: 200px;
+}
+.footer-link{
+  margin-bottom: 0;
+}
+.copyright{
+  margin-top: 0;
+}
