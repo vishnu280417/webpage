@@ -48,7 +48,7 @@
       background-color: #f4f6ff;
  }
  .bottom{
-       background-color: #def4f0;
+       background-color: #66BFBF;
        margin: 0;
  }
 .comp{
@@ -70,6 +70,7 @@
 }
 .copyright{
   margin-top: 0;
+  color: white;
 }
 .h3{
    color: #66BFBF;
